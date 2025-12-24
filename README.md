@@ -1,10 +1,10 @@
 # RAG System - Installation & Usage
 
-> **⚠️ IMPORTANT / חשוב מאוד**
+> **⚠️ IMPORTANT **
 >
 > **The answers to the specific assignment questions (Design Decisions, etc.) are located in the file [`README.txt`](./README.txt).**
 >
-> **התשובות לשאלות המשימה (החלטות תכנון, וכו') נמצאות בקובץ [`README.txt`](./README.txt).**
+*
 
 ## Overview
 This is a simple RAG (Retrieval Augmented Generation) system that ingests text data, creates embeddings using OpenAI, and allows semantic search via a React frontend.
