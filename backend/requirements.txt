@@ -1,0 +1,7 @@
+flask
+flask-cors
+chromadb
+openai
+python-dotenv
+pandas
+pinecone
