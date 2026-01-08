@@ -1,13 +1,7 @@
-# RAG System - Installation & Usage
-
-> **⚠️ IMPORTANT **
->
-> **The answers to the specific assignment questions (Design Decisions, etc.) are located in the file [`README.txt`](./README.txt).**
->
-*
+# Retrival System - Installation & Usage
 
 ## Overview
-This is a simple RAG (Retrieval Augmented Generation) system that ingests text data, creates embeddings using OpenAI, and allows semantic search via a React frontend.
+This is a simple Retrival system that ingests text data, creates embeddings using OpenAI, and allows semantic search via a React frontend.
 
 ## Prerequisites
 - **Python 3.8+**
@@ -75,4 +69,4 @@ The application will be available at `http://localhost:5173`.
 - **Backend:** Flask
 - **Frontend:** React (Vite)
 - **Embeddings:** OpenAI `text-embedding-3-small`
-- **Vector Store:** Pinecone (Serverless) - *Cloud-based vector database for scalability and stability.*
+- **Vector Store:** Pinecone - *Cloud-based vector database for scalability and stability.*
